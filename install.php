@@ -27,6 +27,7 @@
 if (isset($_REQUEST['lang'])) {
     $lang = preg_replace('/[^A-Za-z0-9_-]/i', '', $_REQUEST['lang']);
 } else {
+  
     $lang = 'en';
 }
 
@@ -652,4 +653,3 @@ echo '</div>';
 
 install_print_footer($config);
 die;
-
