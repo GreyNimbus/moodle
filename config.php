@@ -6,9 +6,9 @@ $CFG = new stdClass();
 
 $CFG->dbtype    = 'mysqli';
 $CFG->dblibrary = 'native';
-$CFG->dbhost    = '5.175.14.36';
-$CFG->dbname    = 'db12530410-me';
-$CFG->dbuser    = 'db12530410-me';
+$CFG->dbhost    = 'nazarenes.org.in';
+$CFG->dbname    = 'dbp93wp83fhfbg';
+$CFG->dbuser    = 'uzpw7xemcj86c';
 $CFG->dbpass    = 'y76sfmzs637r';
 $CFG->prefix    = 'mdl_';
 $CFG->dboptions = array (
