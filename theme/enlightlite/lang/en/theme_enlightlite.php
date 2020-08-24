@@ -36,7 +36,7 @@ $string['categoryimgcategory'] = 'The image for the category: {$a->category}.';
 $string['choosereadme'] = '<div class="clearfix"><div class="theme_screenshot"><img class=img-polaroid src="enlightlite/pix/screenshot.jpg" /><h3>Theme Credits</h3><p><h3>Moodle Enlightlite theme</h3><p>This theme is based on the Bootstrapbase Moodle theme.</p><p><a href="http://getbootstrap.com">http://getbootstrap.com</a></p><p>Authors: LMSACE Dev Team<br>Contact: info@lmsace.com<br>Website: <a target="_blank" href="http://www.lmsace.com">www.lmsace.com</a><br></p>';
 $string['configtitle'] = 'Enlightlite';
 $string['copyright'] = 'Copyright content';
-$string['copyrightdefault'] = 'Copyright &copy; 2017 - Developed by <a href="http://lmsace.com">LMSACE.com</a>. Powered by <a href="https://moodle.org">Moodle</a>';
+$string['copyrightdefault'] = 'Copyright &copy; 2020 - Developed by <a href="https://www.greynimbus.com">GreyNimbus</a>.';
 $string['copyrightdesc'] = 'Enter the copyright information as plain text or lang:language_key for multi-lingual support (Ex <b>lang:information</b>). <br/>You can find the default language keys here : /theme/enlightlite/lang[FOLDER].';
 $string['courses'] = 'Courses';
 $string['courselayout'] = 'Course category layout';
